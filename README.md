@@ -1,8 +1,8 @@
 # Mask Object Detection Yolo
  
-Mask Object Detection Dataset URL:https://mega.nz/file/cihylKRJ#3JF8wHoUIDvlwmVP4cnpYzU7YymqOE5XcO1nwRmeiJM
+Dataset URL:https://mega.nz/file/d5s2HYwJ#VfwoKiAUFs38zwgYpDY4w87hNl0Iqi8goQGGffXop0I
 -------------
-Mask Object Detection  model weights URL:https://mega.nz/file/wq4lnbAS#TtPNHQiSu5yu204_OrKvr9EVe_UmixB0zc52fMy9g7Y
+Object Detection model weights URL:
 -------------
 
 
