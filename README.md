@@ -1,4 +1,4 @@
-# Mask Object Detection Yolo
+# YoloX-Tensorflow2.X
  
 Dataset URL:https://mega.nz/file/d5s2HYwJ#VfwoKiAUFs38zwgYpDY4w87hNl0Iqi8goQGGffXop0I
 -------------
