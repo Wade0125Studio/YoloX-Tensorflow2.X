@@ -1,0 +1,4 @@
+bottle 0.0308 112 62 485 292
+diningtable 0.0241 10 13 492 318
+diningtable 0.0027 0 43 207 329
+diningtable 0.0022 6 151 457 328
